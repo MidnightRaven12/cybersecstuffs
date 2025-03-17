@@ -1,0 +1,1 @@
+This is as library for Cybersecurity enthusiasts. They are for philosophy and actual hacking textbooks as well. (although, most of your learning will come from websites.)
