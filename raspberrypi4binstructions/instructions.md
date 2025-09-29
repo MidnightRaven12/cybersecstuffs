@@ -12,10 +12,10 @@ Step 1: Actually, know how to access the Raspberry Pi screen.
 
 There is a thing that is known as a: [micro HDMI to HDMI converter](https://www.amazon.com/UGREEN-Adapter-Ethernet-Compatible-Raspberry/dp/B06WWQ7KLV) that you can use in order to interface with the Raspberry Pi 4. Hook it up to any one of the monitors (preferrably the one that is already hooked up, and use it to verify the settings.
 
-Step 2: Brute force (if necessary.) Most times: the password is some variation of: "marcraft". (ex "marcraft", "Marcraft", "MARCRAFT") Sometimes, the Raspberry Pi is locked with a password, and one needs to brute force it. Use [Hydra](https://www.kali.org/tools/hydra/) in order to go and brute force the password. Additionally, you may also might need to code a regular Python program in order to generate different combinations for the password. (or just CHAT GPT it.) 
+Step 2: Brute force (if necessary.) 
 
-Additionally, you might need to brute force the username. So, yeah...might take a literal hour.
+Additionally, you might need to brute force the username. So, yeah...might take a bit.
 
-Step 3: Now, for Raspberry Pi 4b, you might also need a breadboard, some buttons, as well as (optionally) an [LCD 16x2 monitor](https://www.amazon.com/16x2-lcd-display/s?k=16x2+lcd+display), and a couple wires. You could find this in either Mr. Baker's room (or the next door room). You will also need to know about the [GPiO module](https://pypi.org/project/RPi.GPIO) in Python. There are also a few different videos that help on the
+Step 3: Now, for Raspberry Pi 4b, you might also need a breadboard, some buttons, as well as (optionally) an [LCD 16x2 monitor](https://www.amazon.com/16x2-lcd-display/s?k=16x2+lcd+display), and a couple wires. You could find this in the next door room. You will also need to know about the [GPiO module](https://pypi.org/project/RPi.GPIO) in Python. There are also a few different videos that help on the topic that you could find anywhere. 
 
-Step 4: 
+Step 4: Wire your circuit, and program it to execute specific commands when a button is pressed. Profit.
