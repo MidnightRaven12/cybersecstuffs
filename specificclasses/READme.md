@@ -1,1 +1,0 @@
-This is a list of classes that are offered at Avondale, and some condensed resources to help anyone that wants to learn about certain topics.
