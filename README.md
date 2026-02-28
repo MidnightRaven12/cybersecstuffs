@@ -2,9 +2,7 @@
 
 #  Cybersecurity Repository
 
-So, cybersecurity stuffs! Yay!
-
-## Moved to Blackbird65536's account
+So, cybersecurity stuffs! Yay! (Moved to Blackbird65536's account)
 
 ## Philosophy
 
